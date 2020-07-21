@@ -100,8 +100,5 @@
 		  "Get a feel of characterizing the feature size",
 		  "To understand the basic operation of the TEM Loading sample, searching and selecting region of interest, Magnifying the features, Purpose of tilting and optimizing the contrast, setting for bright field imaging, setting for diffraction pattern",
 		  "Purpose of bright field imaging, purpose of dark field imaging, weak beam imaging",
-    "courseAlignment": {
-        "description": 
-		
-    }
+    
 }
