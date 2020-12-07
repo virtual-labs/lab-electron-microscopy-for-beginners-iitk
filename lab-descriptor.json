@@ -1,105 +1,93 @@
 {
-    "broadArea": {
-        "name": "Mechanical Engineering",
-        "link": "http://vlab.co.in/broad-area-mechanical-engineering"
+  "broadArea": {
+    "name": "Mechanical Engineering",
+    "link": "http://vlab.co.in/broad-area-mechanical-engineering"
+  },
+  "lab": "Electron Microscopy For Beginners",
+  "deployLab": true,
+  "phase": 3,
+  "collegeName": "IITK",
+  "baseUrl": "emb-iitk.vlabs.ac.in",
+  "introduction": "Welcome to Electron Microscopy For Beginners",
+  "experiments": [
+    {
+      "name": "Basics of Scanning Electron Microscopy: Secondary Electron and BSE imaging mode",
+      "short-name": "sem-basics",
+      "repo": "https://github.com/virtual-labs/exp-sem-basics-iitk",
+      "tag": "v1.0.0",
+      "deploy": true
     },
-    "lab": "Electron Microscopy For Beginners",
-    "deployLab":true,
-    "phase": 3,
-    "collegeName": "IITK",
-    "baseUrl": "http://emb-iitk.vlabs.ac.in",
-    "introduction": "Welcome to Electron Microscopy For Beginners",
-    "experiments": [
-	    	    {
-            "name": "Basics of Scanning Electron Microscopy: Secondary Electron and BSE imaging mode",
-            "short-name": "sem-basics",
-            "repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/electron-microscopy-for-beginners-iitk/sem-basics-iitk",
-            "branch": "master",
-            "tag": "v1.0.0",
-            "deploy": true
-                },
-	        {
-            "name": "Feature Size measurement: Porosity, Grain, and Reinforcement",
-            "short-name": "feature-size-measurement",
-            "repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/electron-microscopy-for-beginners-iitk/feature-size-measurement-iitk",
-            "branch": "master",
-            "tag": "v1.0.0",
-            "deploy": true
-	        },
-		 {
-            "name": "Effect of Beam voltage on conducting and insulating samples",
-            "short-name": "beam-voltage",
-            "repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/electron-microscopy-for-beginners-iitk/beam-voltage-iitk",
-            "branch": "master",
-            "tag": "v1.0.0",
-            "deploy": true
-                },
-		{
-            "name": "Elemental mapping: Spot, Line and Area Analysis",
-            "short-name": "elemental-mapping",
-            "repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/electron-microscopy-for-beginners-iitk/elemental-mapping-iitk",
-            "branch": "master",
-            "tag": "v1.0.0",
-            "deploy": true
-                },
-		{	
-	    "name": "Basic operations of Transmission Electron Microscope (Imaging and Diffraction Pattern)",
-            "short-name": "transmission-electron-microscope",
-            "repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/electron-microscopy-for-beginners-iitk/transmission-electron-microscope-iitk",
-            "branch": "master",
-            "tag": "v1.0.0",
-            "deploy": true
-	        },
-		{
-            "name": "Bright Field Imaging and Dark Field Imaging",
-            "short-name": "field-imaging",
-            "repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/electron-microscopy-for-beginners-iitk/field-imaging-iitk",
-            "branch": "master",
-            "tag": "v1.0.0",
-            "deploy": true
-                },
-				{
-	    "name": "Electron Diffraction for various materials",
-            "short-name": "electron-diffraction",
-            "repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/electron-microscopy-for-beginners-iitk/electron-diffraction-iitk",
-            "branch": "master",
-            "tag": "v1.0.0",
-            "deploy": true
-	        },
-		{
-	    "name": "Indexing of Diffraction Patterns (Ring Pattern & Spot Pattern)",
-            "short-name": "diffraction-patterns",
-            "repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/electron-microscopy-for-beginners-iitk/diffraction-patterns-iitk",
-            "branch": "master",
-            "tag": "v1.0.0",
-            "deploy": true
-	        },
-		 {
-            "name": "Sample Preparation for TEM analysis (Bulk metal, Powder sample, Brittle material)",
-            "short-name": "tem-analysis",
-            "repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/electron-microscopy-for-beginners-iitk/tem-analysis-iitk",
-            "branch": "master",
-            "tag": "v1.0.0",
-            "deploy": true
-                },
-		 {
-            "name": "Cross-sectional Sample Preparation",
-            "short-name": "cross-sectional-sample",
-            "repo": "http://vlabs.iitb.ac.in/gitlab/iitk-labs/electron-microscopy-for-beginners-iitk/cross-sectional-sample-iitk",
-            "branch": "master",
-            "tag": "v1.0.0",
-            "deploy": true
-                }
-    ],
-    "targetAudience": {
-        "UG": ["B.Tech./ B.E in Mechanical Engineering"],
-        "PG": ["M.Tech/ M.E in Mechanical Engineering"]
+    {
+      "name": "Feature Size measurement: Porosity, Grain, and Reinforcement",
+      "short-name": "feature-size-measurement",
+      "repo": "https://github.com/virtual-labs/exp-feature-size-measurement-iitk",
+      "tag": "v1.0.0",
+      "deploy": true
     },
-    "objective": ["To understand basic operation of SEM",
-		  "To observe the imaging modes of Secondary electron for topographical features and back-scattered electron imaging for compositional contrast",
-		  "Get a feel of characterizing the feature size",
-		  "To understand the basic operation of the TEM Loading sample, searching and selecting region of interest, Magnifying the features, Purpose of tilting and optimizing the contrast, setting for bright field imaging, setting for diffraction pattern",
-		  "Purpose of bright field imaging, purpose of dark field imaging, weak beam imaging"
-    		]
-
+    {
+      "name": "Effect of Beam voltage on conducting and insulating samples",
+      "short-name": "beam-voltage",
+      "repo": "https://github.com/virtual-labs/exp-beam-voltage-iitk",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Elemental mapping: Spot, Line and Area Analysis",
+      "short-name": "elemental-mapping",
+      "repo": "https://github.com/virtual-labs/exp-elemental-mapping-iitk",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Basic operations of Transmission Electron Microscope (Imaging and Diffraction Pattern)",
+      "short-name": "transmission-electron-microscope",
+      "repo": "https://github.com/virtual-labs/exp-transmission-electron-microscope-iitk/",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Bright Field Imaging and Dark Field Imaging",
+      "short-name": "field-imaging",
+      "repo": "https://github.com/virtual-labs/exp-field-imaging-iitk",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Electron Diffraction for various materials",
+      "short-name": "electron-diffraction",
+      "repo": "https://github.com/virtual-labs/exp-electron-diffraction-iitk",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Indexing of Diffraction Patterns (Ring Pattern & Spot Pattern)",
+      "short-name": "diffraction-patterns",
+      "repo": "https://github.com/virtual-labs/exp-diffraction-patterns-iitk",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Sample Preparation for TEM analysis (Bulk metal, Powder sample, Brittle material)",
+      "short-name": "tem-analysis",
+      "repo": "https://github.com/virtual-labs/exp-tem-analysis-iitk",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Cross-sectional Sample Preparation",
+      "short-name": "cross-sectional-sample",
+      "repo": "https://github.com/virtual-labs/exp-cross-sectional-sample-iitk",
+      "tag": "v1.0.0",
+      "deploy": true
+    }
+  ],
+  "targetAudience": {
+    "UG": ["Students of materials science and engineering"],
+    "PG": ["Students of materials science and engineering"]
+  },
+  "objective": "To understand basic operation of SEM,</br> To observe the imaging modes of Secondary electron for topographical features and back-scattered electron imaging for compositional contrast, </br> Get a feel of characterizing the feature size , </br> To understand the basic operation of the TEM Loading sample, searching and selecting region of interest, Magnifying the features, Purpose of tilting and optimizing the contrast, setting for bright field imaging, setting for diffraction pattern, </br> Purpose of bright field imaging, purpose of dark field imaging, weak beam imaging",
+  "courseAlignment": {
+    "description": "The lab contents are chosen such that it covers the syllabi of Electron Microscopy For Beginners .",
+    "universities": ["Panjab University Electron Microscopy Lab, Delhi University electron microscopy lab"]
+  }
 }
