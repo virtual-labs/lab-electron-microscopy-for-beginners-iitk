@@ -88,6 +88,9 @@
   "objective": "To understand basic operation of SEM, To observe the imaging modes of Secondary electron for topographical features and back-scattered electron imaging for compositional contrast, Get a feel of characterizing the feature size , To understand the basic operation of the TEM Loading sample, searching and selecting region of interest, Magnifying the features, Purpose of tilting and optimizing the contrast, setting for bright field imaging, setting for diffraction pattern, Purpose of bright field imaging, purpose of dark field imaging, weak beam imaging",
   "courseAlignment": {
     "description": "The lab contents are chosen such that it covers the syllabi of Electron Microscopy For Beginners .",
-    "universities": ["Panjab University Electron Microscopy Lab, Delhi University electron microscopy lab"]
-  }
+    "universities": [
+      "Panjab University Electron Microscopy Lab, Delhi University electron microscopy lab"
+    ]
+  },
+  "version": "v1.0.1"
 }
