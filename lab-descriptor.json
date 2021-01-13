@@ -56,7 +56,7 @@
       "name": "Electron Diffraction for various materials",
       "short-name": "electron-diffraction",
       "repo": "https://github.com/virtual-labs/exp-electron-diffraction-iitk",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
@@ -92,5 +92,5 @@
       "Panjab University Electron Microscopy Lab, Delhi University electron microscopy lab"
     ]
   },
-  "version": "v1.0.3"
+  "version": "v1.0.4"
 }
