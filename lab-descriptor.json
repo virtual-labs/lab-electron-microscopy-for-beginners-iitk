@@ -14,21 +14,21 @@
       "name": "Basics of Scanning Electron Microscopy: Secondary Electron and BSE imaging mode",
       "short-name": "sem-basics",
       "repo": "https://github.com/virtual-labs/exp-sem-basics-iitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Feature Size measurement: Porosity, Grain, and Reinforcement",
       "short-name": "feature-size-measurement",
       "repo": "https://github.com/virtual-labs/exp-feature-size-measurement-iitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Effect of Beam voltage on conducting and insulating samples",
       "short-name": "beam-voltage",
       "repo": "https://github.com/virtual-labs/exp-beam-voltage-iitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
@@ -56,7 +56,7 @@
       "name": "Electron Diffraction for various materials",
       "short-name": "electron-diffraction",
       "repo": "https://github.com/virtual-labs/exp-electron-diffraction-iitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -70,7 +70,7 @@
       "name": "Sample Preparation for TEM analysis (Bulk metal, Powder sample, Brittle material)",
       "short-name": "tem-analysis",
       "repo": "https://github.com/virtual-labs/exp-tem-analysis-iitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -92,5 +92,5 @@
       "Panjab University Electron Microscopy Lab, Delhi University electron microscopy lab"
     ]
   },
-  "version": "v1.0.2"
+  "version": "v1.0.3"
 }
