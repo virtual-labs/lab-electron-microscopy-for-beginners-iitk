@@ -14,70 +14,70 @@
       "name": "Basics of Scanning Electron Microscopy: Secondary Electron and BSE imaging mode",
       "short-name": "sem-basics",
       "repo": "https://github.com/virtual-labs/exp-sem-basics-iitk",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Feature Size measurement: Porosity, Grain, and Reinforcement",
       "short-name": "feature-size-measurement",
       "repo": "https://github.com/virtual-labs/exp-feature-size-measurement-iitk",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Effect of Beam voltage on conducting and insulating samples",
       "short-name": "beam-voltage",
       "repo": "https://github.com/virtual-labs/exp-beam-voltage-iitk",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
       "name": "Elemental mapping: Spot, Line and Area Analysis",
       "short-name": "elemental-mapping",
       "repo": "https://github.com/virtual-labs/exp-elemental-mapping-iitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Basic operations of Transmission Electron Microscope (Imaging and Diffraction Pattern)",
       "short-name": "transmission-electron-microscope",
       "repo": "https://github.com/virtual-labs/exp-transmission-electron-microscope-iitk/",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Bright Field Imaging and Dark Field Imaging",
       "short-name": "field-imaging",
       "repo": "https://github.com/virtual-labs/exp-field-imaging-iitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Electron Diffraction for various materials",
       "short-name": "electron-diffraction",
       "repo": "https://github.com/virtual-labs/exp-electron-diffraction-iitk",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
       "name": "Indexing of Diffraction Patterns (Ring Pattern & Spot Pattern)",
       "short-name": "diffraction-patterns",
       "repo": "https://github.com/virtual-labs/exp-diffraction-patterns-iitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Sample Preparation for TEM analysis (Bulk metal, Powder sample, Brittle material)",
       "short-name": "tem-analysis",
       "repo": "https://github.com/virtual-labs/exp-tem-analysis-iitk",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Cross-sectional Sample Preparation",
       "short-name": "cross-sectional-sample",
       "repo": "https://github.com/virtual-labs/exp-cross-sectional-sample-iitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     }
   ],
