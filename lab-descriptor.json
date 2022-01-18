@@ -4,6 +4,7 @@
     "link": "http://vlab.co.in/broad-area-mechanical-engineering"
   },
   "lab": "Electron Microscopy For Beginners",
+  "lab_display_name": "Electron Microscopy For Beginners",
   "deployLab": true,
   "phase": 3,
   "collegeName": "IITK",
