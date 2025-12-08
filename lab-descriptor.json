@@ -58,7 +58,7 @@
       "name": "Electron Diffraction for various materials",
       "short-name": "electron-diffraction",
       "repo": "https://github.com/virtual-labs/exp-electron-diffraction-iitk",
-      "tag": "v1.0.4",
+      "tag": "v1.0.5",
       "deploy": true
     },
     {
